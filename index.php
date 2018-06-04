@@ -1,1 +1,1 @@
-<?php include 'index.html';?>
+<?php require 'index.html';?>
