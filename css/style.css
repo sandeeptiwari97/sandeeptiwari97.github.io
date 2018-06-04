@@ -93,7 +93,8 @@ hr {
 	margin-right: 10px;
 }
 #menu a.navbar-brand:hover {
-	color: #2574ba;
+	/*color: #2574ba;*/
+	color: rgba(37, 116, 186, 0.8);
 	border: 1px solid #2574ba;
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -105,7 +106,6 @@ hr {
 }
 #menu.navbar-default .navbar-nav > li > a:hover {
 	color: #2574ba;
-	text-decoration: underline;
 }
 .on {
 	background-color: rgba(0,0,0,0.8) !important;
