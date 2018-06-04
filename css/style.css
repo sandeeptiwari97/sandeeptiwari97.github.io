@@ -107,13 +107,7 @@ hr {
 	color: #2574ba;
 	text-decoration: underline;
 }
-/*#menu span.full-name {
-	font-family: 'Open Sans', sans-serif;
-	font-size: 18px;
-	text-transform: uppercase;
-	color: rgba(255,255,255,0.8);
-	line-height: 50px;
-}*/
+
 .on {
 	background-color: rgba(0,0,0,0.8) !important;
 	padding: 0 !important;
